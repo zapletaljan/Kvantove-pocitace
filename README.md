@@ -8,6 +8,7 @@ Jako téma stránky jsem si vybral kvantové počítače, protože je to zajíma
 <br>
 Výsledkem byly 3 soubory, každý na jiné informace o kvantových počítačích.
 <h2></h2>
+
 <b>2. Prompt:</b> <I>Teď mi udělej CSS kód kompatibilní s html kódem co jsi mi poslal.</I><br>
 <br>
 Copilot mi udělal soubor s kaskádovými styly, který jsem pouze překopíroval.
